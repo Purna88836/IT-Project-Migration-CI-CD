@@ -1,0 +1,5 @@
+# Example CODEOWNERS file
+# Specify owners for different directories and files
+/data/ @data-team
+/models/ @ml-team
+/scripts/ @devops-team
