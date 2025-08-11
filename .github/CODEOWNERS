@@ -1,0 +1,8 @@
+# Define code ownership for different parts of the repository
+# Require reviews from specific teams or individuals
+
+# All files in the repository
+* @mlops-team
+
+# Specific service
+/services/hello-world/ @lambda-team
